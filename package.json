@@ -17,7 +17,10 @@
   },
   "dependencies": {
     "@lekoarts/gatsby-theme-minimal-blog": "^6.2.1",
+    "ajv": "^6.12.6",
+    "ajv-keywords": "^3.5.2",
     "gatsby": "^5.13.6",
+    "gatsby-paginate": "^1.1.1",
     "gatsby-plugin-feed": "^5.13.1",
     "gatsby-plugin-manifest": "^5.13.1",
     "gatsby-plugin-sitemap": "^6.13.1",
