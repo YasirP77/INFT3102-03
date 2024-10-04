@@ -1,4 +1,4 @@
-# Crafting a Unique Gatsby Experience (Created with the reference of chatgpt)
+# Crafting a Unique Gatsby Experience (Created with the reference of chatgpt and starter code by LekoArts)
 
 
 Welcome to my Gatsby project, where I demonstrate modern web development practices by utilizing Gatsby's capabilities and customizing it for a unique and creative web experience.
